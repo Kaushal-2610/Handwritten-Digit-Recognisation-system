@@ -1,7 +1,7 @@
 # Handwritten-Digit-Recognisation-system
 Input :- MINST dataset imported using keras   
 Model :- Convolutional Neural Network   
-Output :- Predicted number written on canvas <br>
+Output :- Prediction of number written on canvas <br>
 
 ![Screenshot (34)](https://github.com/Kaushal-2610/Handwritten-Digit-Recognisation-system/assets/85344428/4b1786e5-7164-422f-b4e4-c59a29d334ef)
 ![Screenshot (35)](https://github.com/Kaushal-2610/Handwritten-Digit-Recognisation-system/assets/85344428/c395af0d-44f1-42fa-838b-29f9de534af1)
